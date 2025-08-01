@@ -1,0 +1,354 @@
+{
+  "pigments": [
+    {
+      "id": "TR_Chi_7_2-37",
+      "color_name": "Hematite Red",
+      "color_family": "Red Series",
+      "rgb": [162, 54, 40],
+      "granularity_level": 7,
+      "components": [
+        { "material": "Hematite", "percentage": 85 },
+        { "material": "Chalk", "percentage": 15 }
+      ],
+      "recommended_mix": [
+        {
+          "target_color": "Rust Red",
+          "ratio": { "Hematite": 3, "Chalk": 1 },
+          "application": "Mineral Painting"
+        }
+      ]
+    },
+    {
+      "id": "NR_Qing_5_3-12",
+      "color_name": "Malachite Green",
+      "color_family": "Green Series",
+      "rgb": [52, 117, 94],
+      "granularity_level": 5,
+      "components": [
+        { "material": "Malachite", "percentage": 90 },
+        { "material": "Talc Powder", "percentage": 10 }
+      ],
+      "recommended_mix": [
+        {
+          "target_color": "Lake Green",
+          "ratio": { "Malachite": 4, "Talc Powder": 1 },
+          "application": "Mural Restoration"
+        }
+      ]
+    },
+    {
+      "id": "SR_Huang_8_4-22",
+      "color_name": "Orpiment",
+      "color_family": "Yellow Series",
+      "rgb": [237, 182, 32],
+      "granularity_level": 8,
+      "components": [
+        { "material": "Orpiment", "percentage": 100 }
+      ],
+      "recommended_mix": [
+        {
+          "target_color": "Golden Yellow",
+          "ratio": { "Orpiment": 1 },
+          "application": "Ceramic Decoration"
+        }
+      ]
+    },
+    {
+      "id": "NR_Lan_6_2-05",
+      "color_name": "Ultramarine",
+      "color_family": "Blue Series",
+      "rgb": [61, 87, 156],
+      "granularity_level": 6,
+      "components": [
+        { "material": "Lapis Lazuli", "percentage": 70 },
+        { "material": "Sodium Silicate", "percentage": 30 }
+      ],
+      "recommended_mix": [
+        {
+          "target_color": "Slate Blue",
+          "ratio": { "Ultramarine": 2, "Hematite Red": 1 },
+          "application": "Mineral Layer Rendering"
+        }
+      ]
+    },
+    {
+      "id": "TR_Mu_9_5-18",
+      "color_name": "Brown Ochre",
+      "color_family": "Brown Series",
+      "rgb": [115, 84, 54],
+      "granularity_level": 9,
+      "components": [
+        { "material": "Ochre", "percentage": 80 },
+        { "material": "Carbon Black", "percentage": 20 }
+      ],
+      "recommended_mix": [
+        {
+          "target_color": "Bronze Brown",
+          "ratio": { "Ochre": 4, "Carbon Black": 1 },
+          "application": "Base Layer for Buddha Figures"
+        }
+      ]
+    },
+    {
+      "id": "NR_Bai_10_1-01",
+      "color_name": "Muscovite White",
+      "color_family": "White Series",
+      "rgb": [240, 240, 235],
+      "granularity_level": 10,
+      "components": [
+        { "material": "Muscovite", "percentage": 95 },
+        { "material": "Talc Powder", "percentage": 5 }
+      ],
+      "recommended_mix": [
+        {
+          "target_color": "Cool White",
+          "ratio": { "Muscovite": 5, "Ultramarine": 1 },
+          "application": "Highlight Treatment"
+        }
+      ]
+    },
+    {
+      "id": "NR_Black_7_2-16",
+      "color_name": "Pine Soot Black",
+      "color_family": "Black Series",
+      "rgb": [25, 24, 26],
+      "granularity_level": 7,
+      "components": [
+        { "material": "Pine Soot", "percentage": 100 }
+      ],
+      "recommended_mix": [
+        {
+          "target_color": "Deep Ink Black",
+          "ratio": { "Pine Soot": 1 },
+          "application": "Line Drawing"
+        }
+      ]
+    },
+    {
+      "id": "NR_Zi_6_4-40",
+      "color_name": "Amethyst Purple",
+      "color_family": "Purple Series",
+      "rgb": [143, 112, 180],
+      "granularity_level": 6,
+      "components": [
+        { "material": "Amethyst", "percentage": 95 },
+        { "material": "Chalk", "percentage": 5 }
+      ],
+      "recommended_mix": [
+        {
+          "target_color": "Lavender Purple",
+          "ratio": { "Amethyst": 2, "Chalk": 1 },
+          "application": "Floral Decoration"
+        }
+      ]
+    },
+    {
+      "id": "NR_Huang_6_3-15",
+      "color_name": "Yellow Ochre",
+      "color_family": "Yellow Series",
+      "rgb": [204, 155, 78],
+      "granularity_level": 6,
+      "components": [
+        { "material": "Ochre", "percentage": 100 }
+      ],
+      "recommended_mix": [
+        {
+          "target_color": "Earth Yellow",
+          "ratio": { "Ochre": 1 },
+          "application": "Base Drafting"
+        }
+      ]
+    },
+    {
+      "id": "NR_Red_6_2-19",
+      "color_name": "Cinnabar",
+      "color_family": "Red Series",
+      "rgb": [204, 42, 42],
+      "granularity_level": 6,
+      "components": [
+        { "material": "Cinnabarite", "percentage": 98 },
+        { "material": "Mercuric Sulfide", "percentage": 2 }
+      ],
+      "recommended_mix": [
+        {
+          "target_color": "Bright Red",
+          "ratio": { "Cinnabar": 1 },
+          "application": "Lip and Ritual Edge Painting"
+        }
+      ]
+    },
+    {
+      "id": "SR_Blue_7_2-38",
+      "color_name": "Cobalt Blue",
+      "color_family": "Blue Series",
+      "rgb": [73, 113, 191],
+      "granularity_level": 7,
+      "components": [
+        { "material": "Cobalt Oxide", "percentage": 95 },
+        { "material": "Silicate", "percentage": 5 }
+      ],
+      "recommended_mix": [
+        {
+          "target_color": "Sky Blue",
+          "ratio": { "Cobalt Blue": 2, "Muscovite": 1 },
+          "application": "Sky Rendering"
+        }
+      ]
+    },
+    {
+      "id": "NR_Purple_6_3-44",
+      "color_name": "Manganese Violet",
+      "color_family": "Purple Series",
+      "rgb": [122, 78, 143],
+      "granularity_level": 6,
+      "components": [
+        { "material": "Manganese Oxide", "percentage": 95 },
+        { "material": "Calcium Silicate", "percentage": 5 }
+      ],
+      "recommended_mix": [
+        {
+          "target_color": "Deep Purple",
+          "ratio": { "Manganese Violet": 2, "Carbon Black": 1 },
+          "application": "Divine Robe Decoration"
+        }
+      ]
+    },
+    {
+      "id": "NR_Lv_5_2-21",
+      "color_name": "Mineral Green",
+      "color_family": "Green Series",
+      "rgb": [88, 142, 102],
+      "granularity_level": 5,
+      "components": [
+        { "material": "Mineral Green", "percentage": 100 }
+      ],
+      "recommended_mix": [
+        {
+          "target_color": "Emerald Green",
+          "ratio": { "Mineral Green": 1 },
+          "application": "Plant Illustration"
+        }
+      ]
+    },
+    {
+      "id": "NR_Huang_7_3-29",
+      "color_name": "Realgar",
+      "color_family": "Yellow Series",
+      "rgb": [255, 204, 102],
+      "granularity_level": 7,
+      "components": [
+        { "material": "Realgar", "percentage": 100 }
+      ],
+      "recommended_mix": [
+        {
+          "target_color": "Bright Yellow",
+          "ratio": { "Realgar": 1 },
+          "application": "Decorative Patterns"
+        }
+      ]
+    },
+    {
+      "id": "NR_Lan_5_3-33",
+      "color_name": "Azurite Blue",
+      "color_family": "Blue Series",
+      "rgb": [72, 130, 180],
+      "granularity_level": 5,
+      "components": [
+        { "material": "Azurite", "percentage": 100 }
+      ],
+      "recommended_mix": [
+        {
+          "target_color": "Lake Blue",
+          "ratio": { "Azurite": 1 },
+          "application": "Water Surface Depiction"
+        }
+      ]
+    },
+    {
+      "id": "NR_Hong_6_2-25",
+      "color_name": "Red Ochre",
+      "color_family": "Red Series",
+      "rgb": [178, 60, 48],
+      "granularity_level": 6,
+      "components": [
+        { "material": "Red Ochre", "percentage": 100 }
+      ],
+      "recommended_mix": [
+        {
+          "target_color": "Brick Red",
+          "ratio": { "Red Ochre": 1 },
+          "application": "Architectural Painting"
+        }
+      ]
+    },
+    {
+      "id": "NR_Cyan_6_3-31",
+      "color_name": "Chalcanthite Blue",
+      "color_family": "Blue Series",
+      "rgb": [66, 115, 145],
+      "granularity_level": 6,
+      "components": [
+        { "material": "Chalcanthite", "percentage": 100 }
+      ],
+      "recommended_mix": [
+        {
+          "target_color": "Deep Lake Blue",
+          "ratio": { "Chalcanthite": 1 },
+          "application": "Water Pattern Illustration"
+        }
+      ]
+    },
+    {
+      "id": "NR_Grey_7_2-41",
+      "color_name": "Graphite Gray",
+      "color_family": "Gray Series",
+      "rgb": [128, 128, 128],
+      "granularity_level": 7,
+      "components": [
+        { "material": "Graphite", "percentage": 100 }
+      ],
+      "recommended_mix": [
+        {
+          "target_color": "Cool Gray",
+          "ratio": { "Graphite": 1 },
+          "application": "Shadow Handling"
+        }
+      ]
+    },
+    {
+      "id": "NR_Yellow_5_3-11",
+      "color_name": "Loess Yellow",
+      "color_family": "Yellow Series",
+      "rgb": [222, 184, 135],
+      "granularity_level": 5,
+      "components": [
+        { "material": "Loess", "percentage": 100 }
+      ],
+      "recommended_mix": [
+        {
+          "target_color": "Light Yellow",
+          "ratio": { "Loess": 1 },
+          "application": "Background Coloring"
+        }
+      ]
+    },
+    {
+      "id": "NR_Pink_6_2-26",
+      "color_name": "Rose Red",
+      "color_family": "Pink Series",
+      "rgb": [220, 78, 112],
+      "granularity_level": 6,
+      "components": [
+        { "material": "Rhodonite", "percentage": 90 },
+        { "material": "Chalk", "percentage": 10 }
+      ],
+      "recommended_mix": [
+        {
+          "target_color": "Soft Pink",
+          "ratio": { "Rhodonite": 3, "Chalk": 1 },
+          "application": "Petal Painting"
+        }
+      ]
+    }
+  ]
+}
